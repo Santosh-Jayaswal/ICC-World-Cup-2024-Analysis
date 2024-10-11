@@ -10,18 +10,23 @@ In this ICC 2024 cricket analysis, we collected data from scratch using Python w
 
 ### Insights
 1. *Overall Team Performance*: The bar chart displays the average scores achieved by each team in the ICC 2024 tournament. Scotland leads with an average score of 163, followed closely by the USA with 160 and India with 157. Other top-performing teams include Australia, Canada, and the USA, with scores ranging from 144 to 148. On the lower end, Uganda scored the lowest average at 54, followed by New Zealand (83) and PNG (97). This data indicates a significant variation in team performances, highlighting the competitive nature of the tournament.
+
 ![6](https://github.com/user-attachments/assets/93083a75-edf0-4fa7-a45d-6e7d533ccb2a)
 
-2. *Top Batsmen's Contribution*: The leading batsmen in the tournament included players like Gurbaz (wk), Ibrahim Zadran, and Jos Buttler, with Gurbaz scoring the highest total of 259 runs. These players significantly contributed to their team's totals and influenced match outcomes.
+3. *Top Batsmen's Contribution*: The leading batsmen in the tournament included players like Gurbaz (wk), Ibrahim Zadran, and Jos Buttler, with Gurbaz scoring the highest total of 259 runs. These players significantly contributed to their team's totals and influenced match outcomes.
+
 ![7](https://github.com/user-attachments/assets/8470f5ce-922d-4e33-b730-65dfcd70b1c2)
 
 For detail information about each batsman we can drill-throgh, for instance, Ibrahim Zadran, who scored 231 runs across 8 matches with an average strike rate of 84.5, demonstrating consistency with a top score of 70 runs against Uganda.
+
 ![8](https://github.com/user-attachments/assets/abe33e14-a25b-4a83-99f6-307370a87ea2)
 
 3. *Top Bowlers' Impact*: The contribution of bowlers like Fazalhaq Farooqi and Rashid Khan highlights the effectiveness of spin and pace bowling strategies in the tournament, with each contributing 16 wickets.
+
 ![9](https://github.com/user-attachments/assets/4a8e2852-3b50-4351-901f-d77611a9afda)
 
 Similary drill-through to Arshdeep Singh emerged as a key bowler with 17 wickets in 8 matches, maintaining a steady economy rate of 5 runs per over. His top performance included taking 4 wickets against the USA.
+
 ![10](https://github.com/user-attachments/assets/93b35298-2771-4a72-885f-ec9df36bfdd2)
 
 ### Conclusion
